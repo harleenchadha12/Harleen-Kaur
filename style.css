@@ -189,3 +189,7 @@ main {
     flex-direction: row;
     justify-content: center;
 }
+
+.fixed-register{
+    margin-bottom: 200px;
+}
